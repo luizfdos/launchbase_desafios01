@@ -13,7 +13,26 @@
   </a>
   </p>
   
-  ## Desafios
+## Desafios
 
   Resolução de desafios propostos para fortalecer conceitos mostrados em aula. 
 
+### 1-1 Primeiros passos com JavaScript
+
+- [x] 01-1-aposentadoria.js
+- [x] 01-1-calculoimc.js
+
+### 1-2 Lidando com objetos e vetores
+
+- [x] 01-2-objetos.js
+- [x] 01-2-programador.js
+
+### 1-3 Funções e estrutura de repetição
+
+- [x] 01-3-buscaportecnologia.js
+- [x] 01-3-usuariostecnologias.js
+- [x] 01-3-somadespesasreceitas.js
+
+### 1-4 Aplicação: Operações bancárias
+
+- [ ] 01-4-operacoesbancarias.js
