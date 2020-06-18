@@ -35,4 +35,4 @@
 
 ### 1-4 Aplicação: Operações bancárias
 
-- [ ] 01-4-operacoesbancarias.js
+- [x] 01-4-operacoesbancarias.js
